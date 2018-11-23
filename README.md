@@ -1,3 +1,3 @@
 # Indic test docs
 
-Test sheets for Devanagari and Bangla, composed back in 2014.
+Test suites for Devanagari and Bangla script fonts.
